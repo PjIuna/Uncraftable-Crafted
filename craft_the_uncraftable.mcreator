@@ -1,0 +1,206 @@
+{
+  "mod_elements": [
+    {
+      "name": "Recipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_2",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_2.json",
+          "src/main/data/craft_the_uncraftable/recipe/recipe_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_3",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_3.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_4",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_4.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_4.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_5",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_5.json",
+          "src/main/data/craft_the_uncraftable/recipe/recipe_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_6",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_6.json",
+          "src/main/data/craft_the_uncraftable/recipe/recipe_6.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_7",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_7.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_7.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_8",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_8.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_8.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe9",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_9",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_9.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_9.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe10",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_10",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_10.json",
+          "src/main/data/craft_the_uncraftable/recipe/recipe_10.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe11",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_11",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_11.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_11.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe11Addon",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_11_addon",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_11_addon.json",
+          "src/main/data/craft_the_uncraftable/recipe/recipe_11_addon.json"
+        ]
+      }
+    },
+    {
+      "name": "Recipe12",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_12",
+      "metadata": {
+        "files": [
+          "src/main/data/craft_the_uncraftable/recipe/recipe_12.json",
+          "src/main/data/craft_the_uncraftable/advancement/recipes/recipe_12.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "craft_the_uncraftable",
+    "modName": "Craft The Uncraftable",
+    "version": "1.0.0",
+    "author": "Pjluna",
+    "websiteURL": "https://github.com/PjIuna/Craft-The-Uncraftable",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.21.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.idke"
+  },
+  "mcreatorVersion": 202500345720
+}

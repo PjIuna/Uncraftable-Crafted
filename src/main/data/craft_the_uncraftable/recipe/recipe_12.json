@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_block",
+    "minecraft:golden_apple",
+    "minecraft:lapis_lazuli",
+    "minecraft:emerald",
+    "minecraft:emerald",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

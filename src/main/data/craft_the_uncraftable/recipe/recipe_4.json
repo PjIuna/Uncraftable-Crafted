@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cooked_porkchop",
+    "minecraft:totem_of_undying",
+    "minecraft:porkchop",
+    "minecraft:obsidian"
+  ],
+  "result": {
+    "id": "minecraft:spawner",
+    "count": 1
+  }
+}

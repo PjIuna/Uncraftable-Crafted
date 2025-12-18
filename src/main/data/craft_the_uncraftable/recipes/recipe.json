@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "minecraft:deepslate_diamond_ore"
+    },
+    {
+      "item": "minecraft:nether_gold_ore"
+    },
+    {
+      "item": "minecraft:nether_gold_ore"
+    },
+    {
+      "item": "minecraft:nether_gold_ore"
+    },
+    {
+      "item": "minecraft:deepslate_diamond_ore"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ancient_debris",
+    "count": 1
+  }
+}

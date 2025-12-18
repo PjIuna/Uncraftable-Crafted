@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:obsidian",
+    "minecraft:water_bucket",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "minecraft:crying_obsidian",
+    "count": 1
+  }
+}
