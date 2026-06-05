@@ -1,40 +1,80 @@
-# Uncraftable Crafted
+# 📦 Uncraftable Crafted
 
-Make uncraftable items craftable!
+> Expand vanilla Minecraft by giving purpose to items that were never meant to be crafted.
 
-## Description
+## ✨ Description
 
-Uncraftable Crafted lets you craft items that are normally impossible to craft in vanilla Minecraft. It enhances survival gameplay by adding balanced and logical recipes for rare or unobtainable items.
+**Uncraftable Crafted** is a vanilla-friendly Minecraft datapack that introduces crafting recipes for items and resources that normally cannot be crafted in survival mode.
 
-Included recipes allow you to:
+Rather than relying solely on rare loot, trading, or limited world generation, players can now obtain these items through carefully balanced recipes that fit naturally into Minecraft's progression system.
 
-* Craft a Monster Spawner using rare materials
-* Smelt Rotten Flesh into Leather
-* Convert Bones into Bone Meal using the Stonecutter
-* Craft Gunpowder with renewable ingredients
-* Access additional custom recipes
+### Included Features
 
-All recipes are designed to feel vanilla-friendly and work seamlessly in both singleplayer and multiplayer worlds.
+🕸️ **Craft Monster Spawners** using expensive late-game materials.
 
-## Installation
+🧥 **Smelt Rotten Flesh into Leather**, giving zombie drops a valuable new use.
 
-1. Download the zip file.
-2. Place it inside your world’s datapacks folder:
+🦴 **Convert Bones into Bone Meal** with the Stonecutter for faster resource processing.
 
+💥 **Craft Gunpowder** from renewable ingredients, making TNT and fireworks easier to sustain.
+
+⚒️ **Additional Custom Recipes** that expand survival gameplay while remaining faithful to the vanilla experience.
+
+Every recipe has been designed to feel balanced, rewarding, and immersive without making progression overpowered.
+
+---
+
+## 🌍 Compatibility
+
+✅ Singleplayer
+
+✅ Multiplayer Servers
+
+✅ Survival Mode
+
+✅ Existing Worlds
+
+✅ Vanilla-Friendly Gameplay
+
+Supports **Minecraft 1.20+**
+
+---
+
+## 📥 Installation
+
+1. Download the latest release.
+2. Move the datapack `.zip` file into your world's datapack folder:
+
+```text
+<world folder>/datapacks/
 ```
-<your world folder>/datapacks/
+
+3. Load the world and run:
+
+```mcfunction
+/reload
 ```
 
-3. If the world is already open, run `/reload` in-game.
+4. Enjoy your new crafting recipes!
 
-Supports Minecraft 1.20 and above.
+---
 
-## License
+## 🎯 Project Goal
 
-All Rights Reserved.
+The goal of **Uncraftable Crafted** is simple: make more of Minecraft's content accessible through crafting while preserving the balance and feel of vanilla survival gameplay.
 
-You may not copy, modify, redistribute, or reupload this datapack without explicit permission from the creator.
+Whether you're running a multiplayer server, building a long-term survival world, or simply looking for more uses for existing resources, this datapack adds meaningful crafting options without changing the core Minecraft experience.
 
-## Credits
+---
 
-Created by Pjluna.
+## 📜 License
+
+**All Rights Reserved**
+
+This datapack may not be copied, modified, redistributed, repackaged, or reuploaded without explicit permission from the creator.
+
+---
+
+## 👤 Credits
+
+Created by **Pjluna**
